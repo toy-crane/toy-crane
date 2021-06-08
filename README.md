@@ -5,7 +5,7 @@
 I am hanwool Kim. Full stack Developer.
 
 Passionate about the modern web front-end ecosystem.  
-typeScript, graphql, serverless, something more...
+typeScript, graphql, serverless, design-system something more...
 
 <!--
 **toy-crane/toy-crane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
