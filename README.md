@@ -7,10 +7,10 @@ I am hanwool Kim. Full stack Developer.
 Passionate about the modern web front-end ecosystem.  
 typeScript, graphql, serverless, design-system something more...
 
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toy-crane&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toy-crane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toy-crane&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+</p>
 
 <!--
 **toy-crane/toy-crane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
