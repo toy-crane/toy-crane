@@ -9,7 +9,7 @@ typeScript, graphql, serverless, design-system something more...
 
 **E-mail** alwaysfun2183@gmail.com
 
-[github](https://github.com/toy-crane) | [blog](https://toycrane.medium.com/) | [linkedIn](https://www.linkedin.com/in/hanwool-kim-65242479/) | [resume](https://www.toycrane.xyz/)
+[resume](https://www.toycrane.xyz/) | [github](https://github.com/toy-crane) | [blog](https://toycrane.medium.com/) | [linkedIn](https://www.linkedin.com/in/hanwool-kim-65242479/)
 
 
 </br>
