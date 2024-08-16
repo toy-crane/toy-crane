@@ -8,20 +8,9 @@ Passionate about the modern web front-end ecosystem.
 typeScript, graphql, serverless, design-system something more...
 
 **E-mail** alwaysfun2183@gmail.com
-
 [resume](https://www.toycrane.xyz/) | [github](https://github.com/toy-crane) | [blog](https://toycrane.medium.com/) | [linkedIn](https://www.linkedin.com/in/hanwool-kim-65242479/)
-
-
 </br>
 </br>
-
-
-📈 **My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toy-crane&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toy-crane&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
 
 <!--
 **toy-crane/toy-crane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
