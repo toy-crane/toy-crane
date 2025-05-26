@@ -9,6 +9,6 @@ Currently building:
 - [Go Parkgolf](https://www.goparkgolf.app)
 
 **E-mail** alwaysfun2183@gmail.com
-[resume](https://www.toycrane.xyz/) | [github](https://github.com/toy-crane) | [blog](https://toycrane.medium.com/) | [linkedIn](https://www.linkedin.com/in/hanwool-kim-65242479/)
+[resume](https://www.toycrane.xyz/)
 </br>
 </br>
