@@ -1,7 +1,6 @@
 # Hi there 👋👋
 
 I am hanwool Kim. Solopreneur
-
 Passionate about the AI
 
 Currently building:
