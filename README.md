@@ -9,6 +9,4 @@ Currently building:
 - [Go Parkgolf](https://www.goparkgolf.app)
 
 **E-mail** alwaysfun2183@gmail.com
-[resume](https://www.toycrane.xyz/)
-</br>
-</br>
+**Resume** https://www.toycrane.xyz
